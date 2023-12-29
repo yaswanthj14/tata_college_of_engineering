@@ -22,6 +22,6 @@ If you have any feedback, please reach out to us at yaswanthj14@gmail.com
 
 ## Authors
 
-- [@jaydipsinh13](https://www.github.com/yaswanthj14)
+- [@yaswanthj14](https://www.github.com/yaswanthj14)
 
 
