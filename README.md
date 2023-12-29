@@ -1,9 +1,5 @@
 # College-Website
 
-## Screenshot
-
-![App Screenshot](https://i.ibb.co/ngzvB02/Screenshot-121.png)
-
 
 ## Features
 
